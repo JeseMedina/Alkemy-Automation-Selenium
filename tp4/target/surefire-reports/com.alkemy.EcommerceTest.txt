@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.alkemy.EcommerceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.629 s <<< FAILURE! - in com.alkemy.EcommerceTest
+testValidarTitulo  Time elapsed: 0.617 s  <<< ERROR!
+io.github.bonigarcia.wdm.config.WebDriverManagerException: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at com.alkemy.EcommerceTest.setUp(EcommerceTest.java:27)
+Caused by: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at com.alkemy.EcommerceTest.setUp(EcommerceTest.java:27)
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at com.alkemy.EcommerceTest.setUp(EcommerceTest.java:27)
+
