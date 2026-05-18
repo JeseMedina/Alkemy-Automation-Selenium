@@ -1,6 +1,1 @@
-com\alkemy\pages\BasePage.class
-com\alkemy\pages\CartPage.class
-com\alkemy\pages\CheckoutPage.class
-com\alkemy\pages\HomePage.class
-com\alkemy\pages\LoginPage.class
 com\alkemy\App.class
